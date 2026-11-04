@@ -29,6 +29,7 @@ downloads it, installs it and reopens the app. Your recordings and settings are 
 - **Record** (red button, or `Ctrl+Alt+R`), use your apps as normal, then stop and name the recording.
 - **Play** (`Ctrl+Alt+P`) replays it in a loop after a short countdown. **Pause** with `Ctrl+Alt+S`, or just
   click somewhere yourself: playback pauses until you resume.
+- **Hotkeys** can be changed to any keys you like (for example F8) under *Hotkeys* in the app.
 - **Human feel** modes (Precise, Natural, Relaxed, or your own) decide how much position, path, speed and
   timing vary, with optional short breaks and longer AFK pauses.
 - **Export / Import** recordings as files to share them with friends. Files from the Android version work too.
